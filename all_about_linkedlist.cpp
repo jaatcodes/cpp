@@ -142,8 +142,5 @@ int main(int argc, char const *argv[])
 	deleteTail(head);
 	print(head);
 
-
-	
-
 	return 0;
 }
